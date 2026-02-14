@@ -29,6 +29,6 @@ if total_dia>=meta_soles:
 else:
     print("Meta no alcanzada")
 
-
+print("Gracias por usar el sistema de control de ventas diarias.")
 
 
