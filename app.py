@@ -21,8 +21,8 @@ while True:
         mayor_cantidad=cantidad
         producto_mas_vendido=nombre_producto
     
-print(total_dia)
-print(producto_mas_vendido)
+print("Total vendido en el día: ",total_dia)
+print("Producto más vendido: ", producto_mas_vendido)
 
 if total_dia>=meta_soles:
     print("Meta alcanzada")
