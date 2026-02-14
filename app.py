@@ -25,9 +25,9 @@ print("Total vendido en el día: ",total_dia)
 print("Producto más vendido: ", producto_mas_vendido)
 
 if total_dia>=meta_soles:
-    print("Meta alcanzada")
+    print("Meta alcanzada.")
 else:
-    print("Meta no alcanzada")
+    print("Meta no alcanzada.")
 
 print("Gracias por usar el sistema de control de ventas diarias.")
 
